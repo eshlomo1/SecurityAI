@@ -17,7 +17,7 @@ $headers = @{
 
 # Set the request body
 $body = @{
-    "prompt" = "What is Microsoft Sentinel?"
+    "prompt" = "Are you familiar with Microsoft Sentinel?"
     "temperature" = 1.0
     "max_tokens" = 100
 }
