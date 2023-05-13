@@ -1,3 +1,5 @@
+// A simple automation with three level to comment Microsoft Sentinel incidents from ChatGPT
+
 {
     "definition": {
         "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
