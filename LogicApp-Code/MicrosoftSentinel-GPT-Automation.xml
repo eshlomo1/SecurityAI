@@ -55,7 +55,7 @@
                 "type": "Object"
             },
             "OPENAIAPIKEY": {
-                "defaultValue": "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",
+                "defaultValue": "Bearer-sk-xxxxx",
                 "type": "String"
             }
         },
