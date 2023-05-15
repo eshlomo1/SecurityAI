@@ -92,9 +92,9 @@
                     "id": "/subscriptions/feaf3497-4b22-4311-a322-1bfede1c07e3/providers/Microsoft.Web/locations/westeurope/managedApis/azsen"
                 },
                 "openaiip": {
-                    "connectionId": "/subscriptions/feaf3497-4b22-4387-a311-1bfede8c07e3/resourceGroups/sub/providers/Microsoft.Web/connections/openaiip-1",
+                    "connectionId": "/subscriptions/feaf3497-4b12-4387-a311-1bfede8c07e3/resourceGroups/sub/providers/Microsoft.Web/connections/openaiip-1",
                     "connectionName": "openaiip-1",
-                    "id": "/subscriptions/feaf3497-4b22-4387-a311-1bfede8c07e3/providers/Microsoft.Web/locations/westeurope/managedApis/openaiip"
+                    "id": "/subscriptions/feaf3197-4b22-4387-a332-1bfede4c07e1/providers/Microsoft.Web/locations/westeurope/managedApis/openaiip"
                 }
             }
         }
